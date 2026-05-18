@@ -37,6 +37,5 @@ Sou estudante de Sistemas de Informação, pela Univesidade Estadual de Montes C
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Gabe0ut&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabe0ut&layout=compact&theme=tokyonight&custom_title=Tecnologias&locale=pt-br" alt="Linguagens mais usadas"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabe0ut&theme=tokyonight&locale=pt_BR" alt="GabeOut Streak"/>
 </div>
