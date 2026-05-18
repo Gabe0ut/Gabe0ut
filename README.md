@@ -1,16 +1,42 @@
-## Hi there 👋
+# Gabe Silva 🐞
 
-<!--
-**Gabe0ut/Gabe0ut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Sistemas de Informação, pela Univesidade Estadual de Montes Claros - MG (Unimontes). Apaixonado por astrofísica e tecnologia. 
 
-Here are some ideas to get you started:
+**`Desenvolvedor FullStack`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <p align="left">
+   <!-- Link e Badge para o LinkedIn -->
+  <a href="https://linkedin.com/in/gabriel-rodrigues-da-silva-5197a6259" target="_blank">
+  <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <!-- Link e Badge para o Instagram -->
+  <a href="https://instagram.com/gabe_out" target="_blank">
+  <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <!-- Link e Badge para o GitHub -->
+  <a href="https://github.com/Gabe0ut?tab=followers">
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Gabe0ut?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <!-- Link e Badge para o GitHub -->
+  <a href="https://github.com/Gabe0ut?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Gabe0ut?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
+### 🛠️ Linguagens e Tecnologias
+
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg">
+  <img align="center" alt="C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
+  <img align="center" alt="Spring Boot" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="MySQL" height="30 width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+
+  
+</div>
+
+<br><br>
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Gabe0ut&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabe0ut&layout=compact&theme=tokyonight&custom_title=Tecnologias&locale=pt-br" alt="Linguagens mais usadas"/>
+</div>
