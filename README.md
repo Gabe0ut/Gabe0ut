@@ -1,4 +1,4 @@
-![Banner do Meu Perfil](assets/banner.png)
+![Banner do Meu Perfil](assets/banner.jpg)
 
 
 # Gabe Silva 🐞
